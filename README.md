@@ -1,2 +1,1 @@
-# FaithHook
- Csgo hvh che9at
+go away thx
